@@ -1,6 +1,6 @@
 import React from 'react'
 import { Console } from '../components/Console'
-import { MyChartComponent, TestChart } from '../components'
+import { TestChart } from '../components'
 
 export const Stock = () => {
   return (
